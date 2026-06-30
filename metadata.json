@@ -1,0 +1,6 @@
+{
+  "name": "Telecom Customer Churn Predictor",
+  "description": "Interactive telecom customer churn prediction workspace with exploratory data analysis, real-time Logistic Regression modeling, and a multi-turn Gemini Churn Advisor with Deep Thinking reasoning mode, plus secure Firebase Auth and Firestore scenario syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
